@@ -14,7 +14,7 @@
 
 - [jokenpo](https://jokenpo-bice.vercel.app/): jogo pedra,papel e tesoura feito com react e tailwdcss
 - [player music](https://boracodar-player-music.vercel.app/)
-- [simple cart](https://simple-cart-mu.vercel.app/)adicione ou remova items e gera o calculo dos item selecionados,utilizei redux.
+- [simple cart](https://simple-cart-mu.vercel.app/):adicione ou remova items e gera o calculo dos item selecionados,utilizei redux.
 
 
 
