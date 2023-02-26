@@ -9,7 +9,7 @@
 - React
 - Node
 - Firebase
-- Docker
+- Docker -Unity
 ## Projetos
 
 - [jokenpo](https://jokenpo-bice.vercel.app/): jogo pedra,papel e tesoura feito com react e tailwdcss
