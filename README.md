@@ -2,17 +2,6 @@
 [![Ícone da rede social](https://cdn-icons-png.flaticon.com/128/174/174857.png)](https://www.linkedin.com/in/dhmeson-ara%C3%BAjo)
 [![Ícone da rede social](https://cdn-icons-png.flaticon.com/128/2335/2335393.png)](https://play.google.com/store/apps/details?id=com.UncannyWorld.com.ThreeKnives)
 
-[![a](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)]
-## Habilidades
-
-- HTML
-- CSS
-- JavaScript
-- React
-- Node
-- Firebase
-- Docker 
-- Unity
 
 ## Projetos
 
