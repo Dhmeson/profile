@@ -4,7 +4,7 @@
 
 
 ## Habilidades
-[![a](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)]
+![a](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
 - HTML
 - CSS
 - JavaScript
