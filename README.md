@@ -1,5 +1,5 @@
 # 💫 About Me:
-Com três anos de experiência em Unity, já publiquei alguns jogos mobile na Play Store. Atualmente, meu foco está em React e Node.js, e possuo habilidades em AWS, Firebase e Docker. Tenho uma sólida compreensão de desenvolvimento de jogos, bem como de tecnologias de back-end e nuvem. Sou apaixonado por aprender e sempre busco aprimorar minhas habilidades em novas tecnologias e metodologias de desenvolvimento. Tenho conhecimentos em várias áreas de tecnologia, sempre buscando novos desafios e oportunidades de aprendizado.
+Com três anos de experiência em Unity, já publiquei alguns jogos mobile na Play Store. Atualmente, meu foco está em React e Node.js, e possuo habilidades em AWS, Firebase e Docker. Tenho uma sólida compreensão de desenvolvimento de jogos, bem como de tecnologias de back-end e nuvem. 
 
 
 ## 🌐 Socials:
