@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Com três anos de experiência em Unity, já publiquei alguns jogos mobile na Play Store. Atualmente, meu foco está em React e Node.js, e possuo habilidades em AWS, Firebase e Docker. Tenho uma sólida compreensão de desenvolvimento de jogos, bem como de tecnologias de back-end. 
 
 
-## 🌐 Socials:
+## 🌐 Redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhmeson/) 
 
 # 💻 Tech Stack:
